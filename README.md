@@ -1,1 +1,2 @@
-# Still a WIP, this repo is for storing the files that will be used. It is being worked on in google colab and will be linked to github when finished.
+**This Program Pulls A Zip File From A Google Drive Containing A Keras Model Trained On A Dataset of 8000 Images, With A Sentiment Score Associated With Each. It Then Uses That Model To Run A Prediction On What The Score Of Your Uploaded Image Would Be.**
+> Data taken from https://www.kaggle.com/datasets/mexwell/image-sentiment-polarity/data
